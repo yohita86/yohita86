@@ -39,9 +39,7 @@ Coordinación de grupos y mejora de procesos
 📫 Contacto
 
 🔗 LinkedIn: https://www.linkedin.com/in/johana-ullua/
-📧 yohanitaullua@gmail.com
-🌍 Abierta a oportunidades remotas o híbridas (Europa · Latinoamérica)
 
-📧 johana@example.com
+📧 yohanitaullua@gmail.com
 
 🌍 Abierta a oportunidades remotas o híbridas (Europa · Latinoamérica)
