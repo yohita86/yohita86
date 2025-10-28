@@ -20,6 +20,7 @@ HR System
 Sistema de gestión de recursos humanos con manejo de usuarios, turnos, validaciones, autenticación y notificaciones programadas.
 
 🔗 [Repositorio GitHub Backend]: https://github.com/HRSYSTEM-PROJECT/Back.git 
+
 🔗 [Repositorio GitHub Frontend]: https://github.com/HRSYSTEM-PROJECT/front.git
 
 📚 Tecnologías usadas: 🌿 Node.js · 🚏 Express.js · 🐚 Nest.js · 🧃 TypeScript · 🧩 TypeORM · 🐘 PostgreSQL · 🍃 MongoDB · 
