@@ -1,4 +1,5 @@
 👋 ¡Hola! Soy Johana Vanina Ullua — Junior Backend Developer
+
 Soy desarrolladora web especializada en backend, con formación reciente en Henry. Me apasiona construir soluciones robustas, escalables y bien documentadas, centradas en la lógica del lado del servidor.
 
 Disfruto resolver problemas complejos mediante código y valoro la arquitectura limpia y mantenible. Además, tengo experiencia en roles de coordinación y enseñanza, promoviendo el trabajo en equipo y el aprendizaje continuo.
